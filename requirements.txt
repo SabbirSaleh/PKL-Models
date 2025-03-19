@@ -1,0 +1,11 @@
+gensim
+numpy
+scipy
+scikit-learn
+pandas
+cffi
+cryptography
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-cloud-storage
